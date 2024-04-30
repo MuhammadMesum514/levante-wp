@@ -1,0 +1,267 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Classified Listing – Real Estate Agent Addon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-21 09:57+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.3\n"
+"X-Domain: rtcl-agent"
+
+#: templates/content-agent.php:33 templates/content-single-agent.php:35
+#, php-format
+msgid "%s Listing"
+msgid_plural "%s Listings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/emails/agent-contact-email.php:28
+#, php-format
+msgid "<strong>Email</strong> : %s"
+msgstr ""
+
+#: templates/emails/agent-contact-email.php:30
+#, php-format
+msgid "<strong>Message</strong> : %s"
+msgstr ""
+
+#: templates/emails/agent-contact-email.php:27
+#, php-format
+msgid "<strong>Name</strong> : %s"
+msgstr ""
+
+#: templates/emails/agent-contact-email.php:29
+#, php-format
+msgid "<strong>Phone</strong> : %s"
+msgstr ""
+
+#: inc/emails/RtclAgentContactEmail.php:25
+msgid "[{site_title}] Contact via : Agent"
+msgstr ""
+
+#: inc/hooks/RtclAgentActionHooks.php:34
+msgid "Add New"
+msgstr ""
+
+#: inc/hooks/RtclAgentActionHooks.php:33
+msgid "Add New Agent"
+msgstr ""
+
+#: inc/hooks/RtclAgentFilterHooks.php:215
+msgid "Agency"
+msgstr ""
+
+#: inc/hooks/RtclAgentActionHooks.php:30 inc/hooks/RtclAgentActionHooks.php:31
+#: inc/hooks/RtclAgentFilterHooks.php:65
+msgid "Agent"
+msgstr ""
+
+#. Description of the plugin
+msgid "Agent addon for Classified Listing Store"
+msgstr ""
+
+#: inc/hooks/RtclAgentFilterHooks.php:246
+msgid "Agent addon license key"
+msgstr ""
+
+#: inc/hooks/RtclAgentFilterHooks.php:29
+msgid "Agent base"
+msgstr ""
+
+#: inc/hooks/RtclAgentFilterHooks.php:32
+msgid "Agent base permalink."
+msgstr ""
+
+#: inc/hooks/RtclAgentFilterHooks.php:58
+msgid "Agent contact form"
+msgstr ""
+
+#: inc/emails/RtclAgentContactEmail.php:34
+msgid "Agent contact mail"
+msgstr ""
+
+#: inc/hooks/RtclAgentActionHooks.php:60
+msgid "Agent Description"
+msgstr ""
+
+#: inc/admin/RtclAgentMeta.php:13 inc/hooks/RtclAgentActionHooks.php:141
+#: inc/hooks/RtclAgentActionHooks.php:236
+msgid "Agent Information"
+msgstr ""
+
+#: inc/hooks/RtclAgentFilterHooks.php:42
+msgid "Agent page"
+msgstr ""
+
+#: inc/hooks/RtclAgentActionHooks.php:32 inc/hooks/RtclAgentActionHooks.php:59
+#: inc/hooks/RtclAgentFilterHooks.php:114
+msgid "Agents"
+msgstr ""
+
+#: inc/hooks/RtclAgentActionHooks.php:209
+msgid "An error to send mail!"
+msgstr ""
+
+#. Name of the plugin
+msgid "Classified Listing – Real Estate Agent Addon"
+msgstr ""
+
+#: templates/agent/contact-form.php:12
+msgid "Contact With Me"
+msgstr ""
+
+#: inc/hooks/RtclAgentActionHooks.php:239
+msgid "Content"
+msgstr ""
+
+#: inc/hooks/RtclAgentActionHooks.php:36
+msgid "Edit Agent"
+msgstr ""
+
+#: inc/helpers/functions.php:20
+msgid "Email"
+msgstr ""
+
+#: templates/emails/agent-contact-email.php:24
+#, php-format
+msgid "Hi %s"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://radiustheme.com"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://www.radiustheme.com/downloads/classified-listing-real-estate-agent/"
+msgstr ""
+
+#: inc/hooks/RtclAgentActionHooks.php:197
+msgid "Invalid Captcha: Please try again."
+msgstr ""
+
+#: templates/agent/ad-listing.php:51
+#, php-format
+msgid "Listing for %s"
+msgstr ""
+
+#: templates/agent/contact-form.php:36
+msgid "Message"
+msgstr ""
+
+#: templates/agent/ad-listing.php:48
+msgid "My Listing"
+msgstr ""
+
+#: inc/hooks/RtclAgentActionHooks.php:222
+msgid "Need to fill all the required field."
+msgstr ""
+
+#: inc/hooks/RtclAgentActionHooks.php:35
+msgid "New Agent"
+msgstr ""
+
+#: inc/hooks/RtclAgentActionHooks.php:40
+msgid "No Agent found"
+msgstr ""
+
+#: inc/hooks/RtclAgentActionHooks.php:41
+msgid "No Agent found in Trash"
+msgstr ""
+
+#: templates/agent/contact-form.php:29
+msgid "Phone number"
+msgstr ""
+
+#: rtcl-agent.php:28
+msgid ""
+"Please install and activate Classified Listing Store to use Agent for "
+"Classified listing plugin."
+msgstr ""
+
+#: inc/hooks/RtclAgentActionHooks.php:28
+msgctxt "Post Type General Name"
+msgid "Agent"
+msgstr ""
+
+#: inc/hooks/RtclAgentActionHooks.php:29
+msgctxt "Post Type Singular Name"
+msgid "Agent"
+msgstr ""
+
+#. Author of the plugin
+msgid "RadiusTheme"
+msgstr ""
+
+#: inc/hooks/RtclAgentActionHooks.php:39
+msgid "Search Agent"
+msgstr ""
+
+#: inc/hooks/RtclAgentFilterHooks.php:45
+msgid "Select a page"
+msgstr ""
+
+#: templates/agent/contact-form.php:45
+msgid "Send Message"
+msgstr ""
+
+#: templates/content-single-agent.php:47 inc/admin/RtclAgentMeta.php:28
+#: inc/hooks/RtclAgentActionHooks.php:244
+msgid "Service Areas"
+msgstr ""
+
+#: inc/hooks/RtclAgentActionHooks.php:105 inc/hooks/RtclAgentFilterHooks.php:31
+msgctxt "slug"
+msgid "agent"
+msgstr ""
+
+#: templates/content-single-agent.php:53 inc/admin/RtclAgentMeta.php:36
+#: inc/hooks/RtclAgentActionHooks.php:249
+msgid "Specialties"
+msgstr ""
+
+#: inc/helpers/functions.php:23
+msgid "Store"
+msgstr ""
+
+#: inc/hooks/RtclAgentFilterHooks.php:47
+msgid "This is the page where all agent list will be display."
+msgstr ""
+
+#: inc/hooks/RtclAgentActionHooks.php:37
+msgid "Update Agent"
+msgstr ""
+
+#: inc/hooks/RtclAgentActionHooks.php:38
+msgid "View Agent"
+msgstr ""
+
+#: templates/emails/agent-contact-email.php:25
+#, php-format
+msgid ""
+"You have received a reply from your contact form at <strong>%s</strong>."
+msgstr ""
+
+#: inc/hooks/RtclAgentActionHooks.php:212
+msgid "Your e-mail has been sent!"
+msgstr ""
+
+#: templates/agent/contact-form.php:23
+msgid "Your email"
+msgstr ""
+
+#: templates/agent/contact-form.php:16
+msgid "Your name"
+msgstr ""
+
+#: inc/hooks/RtclAgentActionHooks.php:194
+msgid "Your session have been expired."
+msgstr ""

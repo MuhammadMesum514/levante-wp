@@ -1,0 +1,728 @@
+[2023-11-30 10:49:47 : INFO] - Re_Smush_It_Task with attachment ID : 22094, autocreated on : November 30, 2023 10:49:47 
+[2023-11-30 10:52:02 : INFO] - Re_Smush_It_Task with attachment ID : 22098, autocreated on : November 30, 2023 10:52:02 
+[2023-11-30 10:53:43 : INFO] - Re_Smush_It_Task with attachment ID : 22102, autocreated on : November 30, 2023 10:53:43 
+[2023-11-30 10:54:48 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2023-11-30 10:54:48 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-11-30 10:54:48 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-11-30 10:54:48 : INFO] - Processing task with ID : 5073, and type 'smush' 
+[2023-11-30 10:54:48 : INFO] - Re_Smush_It_Task with attachment ID : 22094, autocreated on : November 30, 2023 10:49:47 
+[2023-11-30 10:54:48 : INFO] - File: rana-abdullah-1.jpg, Compression quality: 65 
+[2023-11-30 10:54:49 : INFO] - Backing up the original image - 2023/11/rana-abdullah-1-updraft-pre-smush-original.jpg 
+[2023-11-30 10:54:53 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-30 10:54:53 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/11/rana-abdullah-1.jpg.The file was compressed from 56.88 KB to 21.42 KB, saving 62.35 percent, using WP-Optimize 
+[2023-11-30 10:54:53 : INFO] - Completed processing task with ID : 5073, and type 'smush' 
+[2023-11-30 10:54:53 : INFO] - Processing task with ID : 5074, and type 'smush' 
+[2023-11-30 10:54:53 : INFO] - Re_Smush_It_Task with attachment ID : 22098, autocreated on : November 30, 2023 10:52:02 
+[2023-11-30 10:54:53 : INFO] - File: Arsalan-wasim-1.jpg, Compression quality: 65 
+[2023-11-30 10:54:54 : INFO] - Backing up the original image - 2023/11/Arsalan-wasim-1-updraft-pre-smush-original.jpg 
+[2023-11-30 10:54:57 : INFO] - Re_Smush_It_Task with attachment ID : 22106, autocreated on : November 30, 2023 10:54:57 
+[2023-11-30 10:54:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-30 10:54:58 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/11/Arsalan-wasim-1.jpg.The file was compressed from 53.75 KB to 21.92 KB, saving 59.23 percent, using WP-Optimize 
+[2023-11-30 10:54:58 : INFO] - Completed processing task with ID : 5074, and type 'smush' 
+[2023-11-30 10:54:58 : INFO] - Processing task with ID : 5075, and type 'smush' 
+[2023-11-30 10:54:58 : INFO] - Re_Smush_It_Task with attachment ID : 22102, autocreated on : November 30, 2023 10:53:43 
+[2023-11-30 10:54:58 : INFO] - File: joseph-clement.jpg, Compression quality: 65 
+[2023-11-30 10:54:59 : INFO] - Backing up the original image - 2023/11/joseph-clement-updraft-pre-smush-original.jpg 
+[2023-11-30 10:55:03 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-30 10:55:03 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/11/joseph-clement.jpg.The file was compressed from 52.17 KB to 21.76 KB, saving 58.28 percent, using WP-Optimize 
+[2023-11-30 10:55:03 : INFO] - Completed processing task with ID : 5075, and type 'smush' 
+[2023-11-30 10:55:03 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-11-30 10:55:03 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2023-11-30 10:55:03 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-11-30 10:55:03 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2023-11-30 10:56:20 : INFO] - Re_Smush_It_Task with attachment ID : 22110, autocreated on : November 30, 2023 10:56:20 
+[2023-11-30 10:58:25 : INFO] - Re_Smush_It_Task with attachment ID : 22114, autocreated on : November 30, 2023 10:58:25 
+[2023-11-30 10:59:30 : INFO] - Re_Smush_It_Task with attachment ID : 22118, autocreated on : November 30, 2023 10:59:30 
+[2023-11-30 11:05:41 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2023-11-30 11:05:41 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-11-30 11:05:41 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-11-30 11:05:41 : INFO] - Processing task with ID : 5076, and type 'smush' 
+[2023-11-30 11:05:41 : INFO] - Re_Smush_It_Task with attachment ID : 22106, autocreated on : November 30, 2023 10:54:57 
+[2023-11-30 11:05:41 : INFO] - File: muhalab-alam.jpg, Compression quality: 65 
+[2023-11-30 11:05:42 : INFO] - Backing up the original image - 2023/11/muhalab-alam-updraft-pre-smush-original.jpg 
+[2023-11-30 11:05:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-30 11:05:46 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/11/muhalab-alam.jpg.The file was compressed from 54.98 KB to 23.02 KB, saving 58.14 percent, using WP-Optimize 
+[2023-11-30 11:05:46 : INFO] - Completed processing task with ID : 5076, and type 'smush' 
+[2023-11-30 11:05:46 : INFO] - Processing task with ID : 5077, and type 'smush' 
+[2023-11-30 11:05:46 : INFO] - Re_Smush_It_Task with attachment ID : 22110, autocreated on : November 30, 2023 10:56:20 
+[2023-11-30 11:05:46 : INFO] - File: amir-alatrash-1.jpg, Compression quality: 65 
+[2023-11-30 11:05:47 : INFO] - Backing up the original image - 2023/11/amir-alatrash-1-updraft-pre-smush-original.jpg 
+[2023-11-30 11:05:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-30 11:05:50 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/11/amir-alatrash-1.jpg.The file was compressed from 56.51 KB to 20.76 KB, saving 63.27 percent, using WP-Optimize 
+[2023-11-30 11:05:50 : INFO] - Completed processing task with ID : 5077, and type 'smush' 
+[2023-11-30 11:05:50 : INFO] - Processing task with ID : 5078, and type 'smush' 
+[2023-11-30 11:05:50 : INFO] - Re_Smush_It_Task with attachment ID : 22114, autocreated on : November 30, 2023 10:58:25 
+[2023-11-30 11:05:50 : INFO] - File: nebil-manlakayali-1.jpg, Compression quality: 65 
+[2023-11-30 11:05:51 : INFO] - Backing up the original image - 2023/11/nebil-manlakayali-1-updraft-pre-smush-original.jpg 
+[2023-11-30 11:05:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-30 11:05:58 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/11/nebil-manlakayali-1.jpg.The file was compressed from 54.48 KB to 21.72 KB, saving 60.14 percent, using WP-Optimize 
+[2023-11-30 11:05:58 : INFO] - Completed processing task with ID : 5078, and type 'smush' 
+[2023-11-30 11:05:58 : INFO] - Processing task with ID : 5079, and type 'smush' 
+[2023-11-30 11:05:58 : INFO] - Re_Smush_It_Task with attachment ID : 22118, autocreated on : November 30, 2023 10:59:30 
+[2023-11-30 11:05:58 : INFO] - File: muhammad-essa-1.jpg, Compression quality: 65 
+[2023-11-30 11:05:59 : INFO] - Backing up the original image - 2023/11/muhammad-essa-1-updraft-pre-smush-original.jpg 
+[2023-11-30 11:06:03 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-30 11:06:03 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/11/muhammad-essa-1.jpg.The file was compressed from 54.92 KB to 22.76 KB, saving 58.56 percent, using WP-Optimize 
+[2023-11-30 11:06:03 : INFO] - Completed processing task with ID : 5079, and type 'smush' 
+[2023-11-30 11:06:03 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-11-30 11:06:03 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2023-11-30 11:06:03 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-11-30 11:06:03 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2023-11-30 11:32:48 : INFO] - Re_Smush_It_Task with attachment ID : 22122, autocreated on : November 30, 2023 11:32:48 
+[2023-11-30 11:35:40 : INFO] - Re_Smush_It_Task with attachment ID : 22126, autocreated on : November 30, 2023 11:35:40 
+[2023-11-30 11:38:06 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2023-11-30 11:38:06 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-11-30 11:38:06 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-11-30 11:38:06 : INFO] - Processing task with ID : 5080, and type 'smush' 
+[2023-11-30 11:38:06 : INFO] - Re_Smush_It_Task with attachment ID : 22122, autocreated on : November 30, 2023 11:32:48 
+[2023-11-30 11:38:06 : INFO] - File: nadia-bouhadi.jpg, Compression quality: 65 
+[2023-11-30 11:38:07 : INFO] - Backing up the original image - 2023/11/nadia-bouhadi-updraft-pre-smush-original.jpg 
+[2023-11-30 11:38:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-30 11:38:10 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/11/nadia-bouhadi.jpg.The file was compressed from 62.99 KB to 24.62 KB, saving 60.92 percent, using WP-Optimize 
+[2023-11-30 11:38:10 : INFO] - Completed processing task with ID : 5080, and type 'smush' 
+[2023-11-30 11:38:10 : INFO] - Processing task with ID : 5081, and type 'smush' 
+[2023-11-30 11:38:10 : INFO] - Re_Smush_It_Task with attachment ID : 22126, autocreated on : November 30, 2023 11:35:40 
+[2023-11-30 11:38:10 : INFO] - File: fares-al-abed.jpg, Compression quality: 65 
+[2023-11-30 11:38:11 : INFO] - Backing up the original image - 2023/11/fares-al-abed-updraft-pre-smush-original.jpg 
+[2023-11-30 11:38:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-30 11:38:15 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/11/fares-al-abed.jpg.The file was compressed from 71.81 KB to 24.34 KB, saving 66.11 percent, using WP-Optimize 
+[2023-11-30 11:38:15 : INFO] - Completed processing task with ID : 5081, and type 'smush' 
+[2023-11-30 11:38:15 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-11-30 11:38:15 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2023-11-30 11:38:15 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-11-30 11:38:15 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2023-12-11 09:17:43 : INFO] - Re_Smush_It_Task with attachment ID : 22259, autocreated on : December 11, 2023 09:17:43 
+[2023-12-11 09:17:47 : INFO] - Re_Smush_It_Task with attachment ID : 22260, autocreated on : December 11, 2023 09:17:47 
+[2023-12-11 09:17:50 : INFO] - Re_Smush_It_Task with attachment ID : 22261, autocreated on : December 11, 2023 09:17:50 
+[2023-12-11 09:22:47 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2023-12-11 09:22:47 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-12-11 09:22:47 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-12-11 09:22:47 : INFO] - Processing task with ID : 5082, and type 'smush' 
+[2023-12-11 09:22:47 : INFO] - Re_Smush_It_Task with attachment ID : 22259, autocreated on : December 11, 2023 09:17:43 
+[2023-12-11 09:22:47 : INFO] - File: venice-1.png, Compression quality: 65 
+[2023-12-11 09:22:50 : INFO] - Backing up the original image - 2023/12/venice-1-updraft-pre-smush-original.png 
+[2023-12-11 09:23:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-11 09:23:12 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/12/venice-1.png.The file was compressed from 1.13 MB to 325.76 KB, saving 71.97 percent, using WP-Optimize 
+[2023-12-11 09:23:12 : INFO] - Completed processing task with ID : 5082, and type 'smush' 
+[2023-12-11 09:23:12 : INFO] - Processing task with ID : 5083, and type 'smush' 
+[2023-12-11 09:23:12 : INFO] - Re_Smush_It_Task with attachment ID : 22260, autocreated on : December 11, 2023 09:17:47 
+[2023-12-11 09:23:12 : INFO] - File: venice-2.png, Compression quality: 65 
+[2023-12-11 09:23:15 : INFO] - Backing up the original image - 2023/12/venice-2-updraft-pre-smush-original.png 
+[2023-12-11 09:23:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-11 09:23:37 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/12/venice-2.png.The file was compressed from 1.07 MB to 335.47 KB, saving 69.51 percent, using WP-Optimize 
+[2023-12-11 09:23:37 : INFO] - Completed processing task with ID : 5083, and type 'smush' 
+[2023-12-11 09:23:37 : INFO] - Processing task with ID : 5084, and type 'smush' 
+[2023-12-11 09:23:37 : INFO] - Re_Smush_It_Task with attachment ID : 22261, autocreated on : December 11, 2023 09:17:50 
+[2023-12-11 09:23:37 : INFO] - File: venice-3.png, Compression quality: 65 
+[2023-12-11 09:23:41 : INFO] - Backing up the original image - 2023/12/venice-3-updraft-pre-smush-original.png 
+[2023-12-11 09:24:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-11 09:24:04 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/12/venice-3.png.The file was compressed from 1.26 MB to 385.63 KB, saving 70.05 percent, using WP-Optimize 
+[2023-12-11 09:24:04 : INFO] - Completed processing task with ID : 5084, and type 'smush' 
+[2023-12-11 09:24:04 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-12-11 09:24:04 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2023-12-11 09:24:04 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-12-11 09:24:04 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2023-12-11 09:27:49 : INFO] - Re_Smush_It_Task with attachment ID : 22262, autocreated on : December 11, 2023 09:27:49 
+[2023-12-11 09:32:47 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-12-11 09:32:47 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-12-11 09:32:47 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-12-11 09:32:47 : INFO] - Processing task with ID : 5085, and type 'smush' 
+[2023-12-11 09:32:47 : INFO] - Task with ID 5085 and type (smush) failed with error code exceeded_max_filesize - /home5/levanterealestat/public_html/wp-content/uploads/2023/12/Screenshot-2023-12-11-at-1.25.48-PM.png - cannot be optimized, file size is above service provider limit 
+[2023-12-11 09:32:47 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-12-11 09:32:47 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-12-11 09:32:47 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-12-11 09:35:12 : INFO] - Re_Smush_It_Task with attachment ID : 22263, autocreated on : December 11, 2023 09:35:12 
+[2023-12-11 09:38:22 : INFO] - Re_Smush_It_Task with attachment ID : 22264, autocreated on : December 11, 2023 09:38:22 
+[2023-12-11 09:42:47 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2023-12-11 09:42:47 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-12-11 09:42:47 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-12-11 09:42:47 : INFO] - Processing task with ID : 5086, and type 'smush' 
+[2023-12-11 09:42:47 : INFO] - Re_Smush_It_Task with attachment ID : 22263, autocreated on : December 11, 2023 09:35:12 
+[2023-12-11 09:42:47 : INFO] - File: Dubai-Venice.png, Compression quality: 65 
+[2023-12-11 09:42:51 : INFO] - Backing up the original image - 2023/12/Dubai-Venice-updraft-pre-smush-original.png 
+[2023-12-11 09:43:26 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-11 09:43:26 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/12/Dubai-Venice.png.The file was compressed from 4.09 MB to 1.51 MB, saving 63.08 percent, using WP-Optimize 
+[2023-12-11 09:43:26 : INFO] - Completed processing task with ID : 5086, and type 'smush' 
+[2023-12-11 09:43:26 : INFO] - Processing task with ID : 5087, and type 'smush' 
+[2023-12-11 09:43:26 : INFO] - Re_Smush_It_Task with attachment ID : 22264, autocreated on : December 11, 2023 09:38:22 
+[2023-12-11 09:43:26 : INFO] - File: Boulevard.png, Compression quality: 65 
+[2023-12-11 09:43:37 : INFO] - Backing up the original image - 2023/12/Boulevard-updraft-pre-smush-original.png 
+[2023-12-11 09:44:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-11 09:44:15 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/12/Boulevard.png.The file was compressed from 3.27 MB to 1.32 MB, saving 59.75 percent, using WP-Optimize 
+[2023-12-11 09:44:15 : INFO] - Completed processing task with ID : 5087, and type 'smush' 
+[2023-12-11 09:44:15 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-12-11 09:44:15 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2023-12-11 09:44:15 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-12-11 09:44:15 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2023-12-11 12:31:11 : INFO] - Re_Smush_It_Task with attachment ID : 22272, autocreated on : December 11, 2023 12:31:11 
+[2023-12-11 12:36:17 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-12-11 12:36:17 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-12-11 12:36:17 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-12-11 12:36:17 : INFO] - Processing task with ID : 5088, and type 'smush' 
+[2023-12-11 12:36:17 : INFO] - Re_Smush_It_Task with attachment ID : 22272, autocreated on : December 11, 2023 12:31:11 
+[2023-12-11 12:36:17 : INFO] - File: Opera.png, Compression quality: 65 
+[2023-12-11 12:36:21 : INFO] - Backing up the original image - 2023/12/Opera-updraft-pre-smush-original.png 
+[2023-12-11 12:36:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-11 12:36:55 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/12/Opera.png.The file was compressed from 3.26 MB to 1.36 MB, saving 58.3 percent, using WP-Optimize 
+[2023-12-11 12:36:55 : INFO] - Completed processing task with ID : 5088, and type 'smush' 
+[2023-12-11 12:36:55 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-12-11 12:36:55 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-12-11 12:36:55 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-12-11 12:36:55 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-12-11 13:03:35 : INFO] - Re_Smush_It_Task with attachment ID : 22278, autocreated on : December 11, 2023 01:03:35 
+[2023-12-11 13:06:31 : INFO] - Re_Smush_It_Task with attachment ID : 22279, autocreated on : December 11, 2023 01:06:31 
+[2023-12-11 13:08:06 : INFO] - Re_Smush_It_Task with attachment ID : 22280, autocreated on : December 11, 2023 01:08:06 
+[2023-12-11 13:08:44 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2023-12-11 13:08:44 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-12-11 13:08:44 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-12-11 13:08:44 : INFO] - Processing task with ID : 5089, and type 'smush' 
+[2023-12-11 13:08:44 : INFO] - Re_Smush_It_Task with attachment ID : 22278, autocreated on : December 11, 2023 01:03:35 
+[2023-12-11 13:08:44 : INFO] - File: mansion-villa.png, Compression quality: 65 
+[2023-12-11 13:08:49 : INFO] - Backing up the original image - 2023/12/mansion-villa-updraft-pre-smush-original.png 
+[2023-12-11 13:09:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-11 13:09:21 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/12/mansion-villa.png.The file was compressed from 3.45 MB to 1.28 MB, saving 62.87 percent, using WP-Optimize 
+[2023-12-11 13:09:21 : INFO] - Completed processing task with ID : 5089, and type 'smush' 
+[2023-12-11 13:09:21 : INFO] - Processing task with ID : 5090, and type 'smush' 
+[2023-12-11 13:09:21 : INFO] - Re_Smush_It_Task with attachment ID : 22279, autocreated on : December 11, 2023 01:06:31 
+[2023-12-11 13:09:21 : INFO] - File: view-of-lagoon-villa.png, Compression quality: 65 
+[2023-12-11 13:09:25 : INFO] - Backing up the original image - 2023/12/view-of-lagoon-villa-updraft-pre-smush-original.png 
+[2023-12-11 13:09:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-11 13:09:56 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/12/view-of-lagoon-villa.png.The file was compressed from 3.23 MB to 1,022.61 KB, saving 69.05 percent, using WP-Optimize 
+[2023-12-11 13:09:56 : INFO] - Completed processing task with ID : 5090, and type 'smush' 
+[2023-12-11 13:09:56 : INFO] - Processing task with ID : 5091, and type 'smush' 
+[2023-12-11 13:09:56 : INFO] - Re_Smush_It_Task with attachment ID : 22280, autocreated on : December 11, 2023 01:08:06 
+[2023-12-11 13:09:56 : INFO] - File: Aerial-view.png, Compression quality: 65 
+[2023-12-11 13:10:00 : INFO] - Backing up the original image - 2023/12/Aerial-view-updraft-pre-smush-original.png 
+[2023-12-11 13:10:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-11 13:10:36 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/12/Aerial-view.png.The file was compressed from 3.41 MB to 1.31 MB, saving 61.63 percent, using WP-Optimize 
+[2023-12-11 13:10:36 : INFO] - Completed processing task with ID : 5091, and type 'smush' 
+[2023-12-11 13:10:36 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-12-11 13:10:36 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2023-12-11 13:10:36 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-12-11 13:10:36 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2023-12-11 13:15:47 : INFO] - Re_Smush_It_Task with attachment ID : 22281, autocreated on : December 11, 2023 01:15:47 
+[2023-12-11 13:15:53 : INFO] - Re_Smush_It_Task with attachment ID : 22282, autocreated on : December 11, 2023 01:15:53 
+[2023-12-11 13:15:59 : INFO] - Re_Smush_It_Task with attachment ID : 22283, autocreated on : December 11, 2023 01:15:59 
+[2023-12-11 13:18:45 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2023-12-11 13:18:45 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-12-11 13:18:45 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-12-11 13:18:45 : INFO] - Processing task with ID : 5092, and type 'smush' 
+[2023-12-11 13:18:45 : INFO] - Re_Smush_It_Task with attachment ID : 22281, autocreated on : December 11, 2023 01:15:47 
+[2023-12-11 13:18:45 : INFO] - File: Appartment.png, Compression quality: 65 
+[2023-12-11 13:18:49 : INFO] - Backing up the original image - 2023/12/Appartment-updraft-pre-smush-original.png 
+[2023-12-11 13:19:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-11 13:19:20 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/12/Appartment.png.The file was compressed from 3.37 MB to 1.33 MB, saving 60.61 percent, using WP-Optimize 
+[2023-12-11 13:19:20 : INFO] - Completed processing task with ID : 5092, and type 'smush' 
+[2023-12-11 13:19:20 : INFO] - Processing task with ID : 5093, and type 'smush' 
+[2023-12-11 13:19:20 : INFO] - Re_Smush_It_Task with attachment ID : 22282, autocreated on : December 11, 2023 01:15:53 
+[2023-12-11 13:19:20 : INFO] - File: Urban.png, Compression quality: 65 
+[2023-12-11 13:19:25 : INFO] - Backing up the original image - 2023/12/Urban-updraft-pre-smush-original.png 
+[2023-12-11 13:19:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-11 13:19:56 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/12/Urban.png.The file was compressed from 2.95 MB to 1,004.25 KB, saving 66.75 percent, using WP-Optimize 
+[2023-12-11 13:19:56 : INFO] - Completed processing task with ID : 5093, and type 'smush' 
+[2023-12-11 13:19:56 : INFO] - Processing task with ID : 5094, and type 'smush' 
+[2023-12-11 13:19:56 : INFO] - Re_Smush_It_Task with attachment ID : 22283, autocreated on : December 11, 2023 01:15:59 
+[2023-12-11 13:19:56 : INFO] - File: Lagoon.png, Compression quality: 65 
+[2023-12-11 13:20:00 : INFO] - Backing up the original image - 2023/12/Lagoon-updraft-pre-smush-original.png 
+[2023-12-11 13:20:33 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-11 13:20:33 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/12/Lagoon.png.The file was compressed from 2.73 MB to 909.64 KB, saving 67.48 percent, using WP-Optimize 
+[2023-12-11 13:20:33 : INFO] - Completed processing task with ID : 5094, and type 'smush' 
+[2023-12-11 13:20:33 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-12-11 13:20:33 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2023-12-11 13:20:33 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-12-11 13:20:33 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2023-12-11 13:20:55 : INFO] - Re_Smush_It_Task with attachment ID : 22287, autocreated on : December 11, 2023 01:20:55 
+[2023-12-11 13:24:19 : INFO] - Re_Smush_It_Task with attachment ID : 22289, autocreated on : December 11, 2023 01:24:19 
+[2023-12-11 13:28:55 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2023-12-11 13:28:55 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-12-11 13:28:55 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-12-11 13:28:55 : INFO] - Processing task with ID : 5095, and type 'smush' 
+[2023-12-11 13:28:55 : INFO] - Re_Smush_It_Task with attachment ID : 22287, autocreated on : December 11, 2023 01:20:55 
+[2023-12-11 13:28:55 : INFO] - File: Mosque-metro-school.png, Compression quality: 65 
+[2023-12-11 13:28:59 : INFO] - Backing up the original image - 2023/12/Mosque-metro-school-updraft-pre-smush-original.png 
+[2023-12-11 13:29:31 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-11 13:29:31 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/12/Mosque-metro-school.png.The file was compressed from 3.32 MB to 1.32 MB, saving 60.18 percent, using WP-Optimize 
+[2023-12-11 13:29:31 : INFO] - Completed processing task with ID : 5095, and type 'smush' 
+[2023-12-11 13:29:31 : INFO] - Processing task with ID : 5096, and type 'smush' 
+[2023-12-11 13:29:31 : INFO] - Task with ID 5096 and type (smush) failed with error code exceeded_max_filesize - /home5/levanterealestat/public_html/wp-content/uploads/2023/12/Screenshot-2023-12-11-at-5.22.58-PM.png - cannot be optimized, file size is above service provider limit 
+[2023-12-11 13:29:31 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-12-11 13:29:31 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2023-12-11 13:29:31 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-12-11 13:29:31 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-12-11 13:30:16 : INFO] - Re_Smush_It_Task with attachment ID : 22294, autocreated on : December 11, 2023 01:30:16 
+[2023-12-11 13:43:44 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-12-11 13:43:44 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-12-11 13:43:44 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-12-11 13:43:44 : INFO] - Processing task with ID : 5097, and type 'smush' 
+[2023-12-11 13:43:44 : INFO] - Re_Smush_It_Task with attachment ID : 22294, autocreated on : December 11, 2023 01:30:16 
+[2023-12-11 13:43:44 : INFO] - File: Hotel.png, Compression quality: 65 
+[2023-12-11 13:43:48 : INFO] - Backing up the original image - 2023/12/Hotel-updraft-pre-smush-original.png 
+[2023-12-11 13:44:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-11 13:44:19 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/12/Hotel.png.The file was compressed from 3.29 MB to 1.33 MB, saving 59.53 percent, using WP-Optimize 
+[2023-12-11 13:44:19 : INFO] - Completed processing task with ID : 5097, and type 'smush' 
+[2023-12-11 13:44:19 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-12-11 13:44:19 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-12-11 13:44:19 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-12-11 13:44:19 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-12-26 16:51:50 : INFO] - Re_Smush_It_Task with attachment ID : 22532, autocreated on : December 26, 2023 04:51:50 
+[2023-12-26 16:51:52 : INFO] - Re_Smush_It_Task with attachment ID : 22533, autocreated on : December 26, 2023 04:51:52 
+[2023-12-26 16:51:54 : INFO] - Re_Smush_It_Task with attachment ID : 22534, autocreated on : December 26, 2023 04:51:54 
+[2023-12-26 16:51:55 : INFO] - Re_Smush_It_Task with attachment ID : 22535, autocreated on : December 26, 2023 04:51:55 
+[2023-12-26 16:56:56 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2023-12-26 16:56:56 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-12-26 16:56:56 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-12-26 16:56:56 : INFO] - Processing task with ID : 5098, and type 'smush' 
+[2023-12-26 16:56:56 : INFO] - Re_Smush_It_Task with attachment ID : 22532, autocreated on : December 26, 2023 04:51:50 
+[2023-12-26 16:56:56 : INFO] - File: Popup-pic-1.png, Compression quality: 65 
+[2023-12-26 16:56:58 : INFO] - Backing up the original image - 2023/12/Popup-pic-1-updraft-pre-smush-original.png 
+[2023-12-26 16:57:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-26 16:57:12 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/12/Popup-pic-1.png.The file was compressed from 143.32 KB to 143.32 KB, saving 0 percent, using WP-Optimize 
+[2023-12-26 16:57:12 : INFO] - Completed processing task with ID : 5098, and type 'smush' 
+[2023-12-26 16:57:12 : INFO] - Processing task with ID : 5099, and type 'smush' 
+[2023-12-26 16:57:12 : INFO] - Re_Smush_It_Task with attachment ID : 22533, autocreated on : December 26, 2023 04:51:52 
+[2023-12-26 16:57:12 : INFO] - File: Popup-pic-3.png, Compression quality: 65 
+[2023-12-26 16:57:14 : INFO] - Backing up the original image - 2023/12/Popup-pic-3-updraft-pre-smush-original.png 
+[2023-12-26 16:57:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-26 16:57:27 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/12/Popup-pic-3.png.The file was compressed from 118.47 KB to 118.47 KB, saving 0 percent, using WP-Optimize 
+[2023-12-26 16:57:27 : INFO] - Completed processing task with ID : 5099, and type 'smush' 
+[2023-12-26 16:57:27 : INFO] - Processing task with ID : 5100, and type 'smush' 
+[2023-12-26 16:57:27 : INFO] - Re_Smush_It_Task with attachment ID : 22534, autocreated on : December 26, 2023 04:51:54 
+[2023-12-26 16:57:27 : INFO] - File: Popup-pic-2.png, Compression quality: 65 
+[2023-12-26 16:57:28 : INFO] - Backing up the original image - 2023/12/Popup-pic-2-updraft-pre-smush-original.png 
+[2023-12-26 16:57:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-26 16:57:43 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/12/Popup-pic-2.png.The file was compressed from 139.44 KB to 139.44 KB, saving 0 percent, using WP-Optimize 
+[2023-12-26 16:57:43 : INFO] - Completed processing task with ID : 5100, and type 'smush' 
+[2023-12-26 16:57:43 : INFO] - Processing task with ID : 5101, and type 'smush' 
+[2023-12-26 16:57:43 : INFO] - Re_Smush_It_Task with attachment ID : 22535, autocreated on : December 26, 2023 04:51:55 
+[2023-12-26 16:57:43 : INFO] - File: Popup-pic-4.png, Compression quality: 65 
+[2023-12-26 16:57:44 : INFO] - Backing up the original image - 2023/12/Popup-pic-4-updraft-pre-smush-original.png 
+[2023-12-26 16:57:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-26 16:57:59 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/12/Popup-pic-4.png.The file was compressed from 187.54 KB to 187.54 KB, saving 0 percent, using WP-Optimize 
+[2023-12-26 16:57:59 : INFO] - Completed processing task with ID : 5101, and type 'smush' 
+[2023-12-26 16:57:59 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-12-26 16:57:59 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2023-12-26 16:57:59 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-12-26 16:57:59 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2023-12-26 17:08:32 : INFO] - Re_Smush_It_Task with attachment ID : 22536, autocreated on : December 26, 2023 05:08:32 
+[2023-12-26 17:09:37 : INFO] - Re_Smush_It_Task with attachment ID : 22537, autocreated on : December 26, 2023 05:09:37 
+[2023-12-26 17:11:04 : INFO] - Re_Smush_It_Task with attachment ID : 22538, autocreated on : December 26, 2023 05:11:03 
+[2023-12-26 17:13:36 : INFO] - Re_Smush_It_Task with attachment ID : 22539, autocreated on : December 26, 2023 05:13:36 
+[2023-12-26 17:13:40 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2023-12-26 17:13:40 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-12-26 17:13:40 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-12-26 17:13:40 : INFO] - Processing task with ID : 5102, and type 'smush' 
+[2023-12-26 17:13:40 : INFO] - Re_Smush_It_Task with attachment ID : 22536, autocreated on : December 26, 2023 05:08:32 
+[2023-12-26 17:13:40 : INFO] - File: 1-23.jpg, Compression quality: 65 
+[2023-12-26 17:13:42 : INFO] - Backing up the original image - 2023/12/1-23-updraft-pre-smush-original.jpg 
+[2023-12-26 17:13:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-26 17:13:58 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/12/1-23.jpg.The file was compressed from 1.08 MB to 160.22 KB, saving 85.49 percent, using WP-Optimize 
+[2023-12-26 17:13:58 : INFO] - Completed processing task with ID : 5102, and type 'smush' 
+[2023-12-26 17:13:58 : INFO] - Processing task with ID : 5103, and type 'smush' 
+[2023-12-26 17:13:58 : INFO] - Re_Smush_It_Task with attachment ID : 22537, autocreated on : December 26, 2023 05:09:37 
+[2023-12-26 17:13:58 : INFO] - File: 1-22.jpg, Compression quality: 65 
+[2023-12-26 17:13:59 : INFO] - Backing up the original image - 2023/12/1-22-updraft-pre-smush-original.jpg 
+[2023-12-26 17:14:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-26 17:14:18 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/12/1-22.jpg.The file was compressed from 1.27 MB to 179.50 KB, saving 86.17 percent, using WP-Optimize 
+[2023-12-26 17:14:18 : INFO] - Completed processing task with ID : 5103, and type 'smush' 
+[2023-12-26 17:14:18 : INFO] - Processing task with ID : 5104, and type 'smush' 
+[2023-12-26 17:14:18 : INFO] - Re_Smush_It_Task with attachment ID : 22538, autocreated on : December 26, 2023 05:11:03 
+[2023-12-26 17:14:18 : INFO] - File: Untitled-19.png, Compression quality: 65 
+[2023-12-26 17:14:23 : INFO] - Backing up the original image - 2023/12/Untitled-19-updraft-pre-smush-original.png 
+[2023-12-26 17:14:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-26 17:14:56 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2023/12/Untitled-19.png.The file was compressed from 4.09 MB to 1.48 MB, saving 63.69 percent, using WP-Optimize 
+[2023-12-26 17:14:56 : INFO] - Completed processing task with ID : 5104, and type 'smush' 
+[2023-12-26 17:14:56 : INFO] - Processing task with ID : 5105, and type 'smush' 
+[2023-12-26 17:14:56 : INFO] - Task with ID 5105 and type (smush) failed with error code exceeded_max_filesize - /home5/levanterealestat/public_html/wp-content/uploads/2023/12/1.jpg - cannot be optimized, file size is above service provider limit 
+[2023-12-26 17:14:56 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-12-26 17:14:56 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2023-12-26 17:14:56 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-12-26 17:14:56 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2023-12-26 17:15:28 : INFO] - Re_Smush_It_Task with attachment ID : 22540, autocreated on : December 26, 2023 05:15:28 
+[2023-12-26 17:23:41 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-12-26 17:23:41 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-12-26 17:23:41 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-12-26 17:23:41 : INFO] - Processing task with ID : 5106, and type 'smush' 
+[2023-12-26 17:23:41 : INFO] - Task with ID 5106 and type (smush) failed with error code exceeded_max_filesize - /home5/levanterealestat/public_html/wp-content/uploads/2023/12/3.jpg - cannot be optimized, file size is above service provider limit 
+[2023-12-26 17:23:41 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-12-26 17:23:41 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-12-26 17:23:41 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-01-12 07:38:16 : INFO] - Re_Smush_It_Task with attachment ID : 22723, autocreated on : January 12, 2024 07:38:16 
+[2024-01-12 07:38:17 : INFO] - Re_Smush_It_Task with attachment ID : 22725, autocreated on : January 12, 2024 07:38:17 
+[2024-01-12 07:43:31 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2024-01-12 07:43:31 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-01-12 07:43:31 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-01-12 07:43:31 : INFO] - Processing task with ID : 5107, and type 'smush' 
+[2024-01-12 07:43:31 : INFO] - Re_Smush_It_Task with attachment ID : 22723, autocreated on : January 12, 2024 07:38:16 
+[2024-01-12 07:43:31 : INFO] - File: placeholder.png, Compression quality: 65 
+[2024-01-12 07:43:33 : INFO] - Backing up the original image - 2024/01/placeholder-updraft-pre-smush-original.png 
+[2024-01-12 07:43:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 07:43:45 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/placeholder.png.The file was compressed from 6.00 KB to 5.03 KB, saving 16.19 percent, using WP-Optimize 
+[2024-01-12 07:43:45 : INFO] - Completed processing task with ID : 5107, and type 'smush' 
+[2024-01-12 07:43:45 : INFO] - Processing task with ID : 5108, and type 'smush' 
+[2024-01-12 07:43:45 : INFO] - Re_Smush_It_Task with attachment ID : 22725, autocreated on : January 12, 2024 07:38:17 
+[2024-01-12 07:43:45 : INFO] - File: placeholder-1.png, Compression quality: 65 
+[2024-01-12 07:43:45 : INFO] - Backing up the original image - 2024/01/placeholder-1-updraft-pre-smush-original.png 
+[2024-01-12 07:43:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 07:43:56 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/placeholder-1.png.The file was compressed from 6.00 KB to 5.03 KB, saving 16.19 percent, using WP-Optimize 
+[2024-01-12 07:43:56 : INFO] - Completed processing task with ID : 5108, and type 'smush' 
+[2024-01-12 07:43:56 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-01-12 07:43:56 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2024-01-12 07:43:56 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-01-12 07:43:56 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2024-01-12 10:20:53 : INFO] - Re_Smush_It_Task with attachment ID : 22745, autocreated on : January 12, 2024 10:20:53 
+[2024-01-12 10:23:15 : INFO] - Re_Smush_It_Task with attachment ID : 22747, autocreated on : January 12, 2024 10:23:15 
+[2024-01-12 10:23:16 : INFO] - Re_Smush_It_Task with attachment ID : 22748, autocreated on : January 12, 2024 10:23:16 
+[2024-01-12 10:23:16 : INFO] - Re_Smush_It_Task with attachment ID : 22749, autocreated on : January 12, 2024 10:23:16 
+[2024-01-12 10:23:16 : INFO] - Re_Smush_It_Task with attachment ID : 22750, autocreated on : January 12, 2024 10:23:16 
+[2024-01-12 10:26:03 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2024-01-12 10:26:03 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-01-12 10:26:03 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-01-12 10:26:03 : INFO] - Processing task with ID : 5109, and type 'smush' 
+[2024-01-12 10:26:03 : INFO] - Re_Smush_It_Task with attachment ID : 22745, autocreated on : January 12, 2024 10:20:53 
+[2024-01-12 10:26:03 : INFO] - File: placeholder-314.png, Compression quality: 65 
+[2024-01-12 10:26:04 : INFO] - Backing up the original image - 2024/01/placeholder-314-updraft-pre-smush-original.png 
+[2024-01-12 10:26:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 10:26:16 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/placeholder-314.png.The file was compressed from 6.00 KB to 5.03 KB, saving 16.19 percent, using WP-Optimize 
+[2024-01-12 10:26:16 : INFO] - Completed processing task with ID : 5109, and type 'smush' 
+[2024-01-12 10:26:16 : INFO] - Processing task with ID : 5110, and type 'smush' 
+[2024-01-12 10:26:16 : INFO] - Re_Smush_It_Task with attachment ID : 22747, autocreated on : January 12, 2024 10:23:15 
+[2024-01-12 10:26:16 : INFO] - File: placeholder-31.png, Compression quality: 65 
+[2024-01-12 10:26:17 : INFO] - Backing up the original image - 2024/01/placeholder-31-updraft-pre-smush-original.png 
+[2024-01-12 10:26:28 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 10:26:28 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/placeholder-31.png.The file was compressed from 6.00 KB to 5.03 KB, saving 16.19 percent, using WP-Optimize 
+[2024-01-12 10:26:28 : INFO] - Completed processing task with ID : 5110, and type 'smush' 
+[2024-01-12 10:26:28 : INFO] - Processing task with ID : 5111, and type 'smush' 
+[2024-01-12 10:26:28 : INFO] - Re_Smush_It_Task with attachment ID : 22748, autocreated on : January 12, 2024 10:23:16 
+[2024-01-12 10:26:28 : INFO] - File: image-accordion-7.jpg, Compression quality: 65 
+[2024-01-12 10:26:29 : INFO] - Backing up the original image - 2024/01/image-accordion-7-updraft-pre-smush-original.jpg 
+[2024-01-12 10:26:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 10:26:37 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/image-accordion-7.jpg.The file was compressed from 41.40 KB to 15.01 KB, saving 63.73 percent, using WP-Optimize 
+[2024-01-12 10:26:37 : INFO] - Completed processing task with ID : 5111, and type 'smush' 
+[2024-01-12 10:26:37 : INFO] - Processing task with ID : 5112, and type 'smush' 
+[2024-01-12 10:26:37 : INFO] - Re_Smush_It_Task with attachment ID : 22749, autocreated on : January 12, 2024 10:23:16 
+[2024-01-12 10:26:37 : INFO] - File: image-accordion-6.jpg, Compression quality: 65 
+[2024-01-12 10:26:37 : INFO] - Backing up the original image - 2024/01/image-accordion-6-updraft-pre-smush-original.jpg 
+[2024-01-12 10:26:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 10:26:45 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/image-accordion-6.jpg.The file was compressed from 21.07 KB to 21.07 KB, saving 0 percent, using WP-Optimize 
+[2024-01-12 10:26:45 : INFO] - Completed processing task with ID : 5112, and type 'smush' 
+[2024-01-12 10:26:45 : INFO] - Processing task with ID : 5113, and type 'smush' 
+[2024-01-12 10:26:45 : INFO] - Re_Smush_It_Task with attachment ID : 22750, autocreated on : January 12, 2024 10:23:16 
+[2024-01-12 10:26:45 : INFO] - File: image-accordion-16.jpg, Compression quality: 65 
+[2024-01-12 10:26:46 : INFO] - Backing up the original image - 2024/01/image-accordion-16-updraft-pre-smush-original.jpg 
+[2024-01-12 10:26:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 10:26:54 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/image-accordion-16.jpg.The file was compressed from 38.09 KB to 25.18 KB, saving 33.9 percent, using WP-Optimize 
+[2024-01-12 10:26:54 : INFO] - Completed processing task with ID : 5113, and type 'smush' 
+[2024-01-12 10:26:54 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-01-12 10:26:54 : INFO] - Successfully processed the queue (smush). 5 tasks were processed out of 5. 
+[2024-01-12 10:26:54 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-01-12 10:26:54 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2024-01-12 10:37:03 : INFO] - Re_Smush_It_Task with attachment ID : 22758, autocreated on : January 12, 2024 10:37:03 
+[2024-01-12 10:37:04 : INFO] - Re_Smush_It_Task with attachment ID : 22759, autocreated on : January 12, 2024 10:37:04 
+[2024-01-12 10:37:05 : INFO] - Re_Smush_It_Task with attachment ID : 22760, autocreated on : January 12, 2024 10:37:05 
+[2024-01-12 10:37:06 : INFO] - Re_Smush_It_Task with attachment ID : 22761, autocreated on : January 12, 2024 10:37:06 
+[2024-01-12 10:37:06 : INFO] - Re_Smush_It_Task with attachment ID : 22762, autocreated on : January 12, 2024 10:37:06 
+[2024-01-12 10:37:07 : INFO] - Re_Smush_It_Task with attachment ID : 22763, autocreated on : January 12, 2024 10:37:07 
+[2024-01-12 10:37:08 : INFO] - Re_Smush_It_Task with attachment ID : 22764, autocreated on : January 12, 2024 10:37:08 
+[2024-01-12 10:37:09 : INFO] - Re_Smush_It_Task with attachment ID : 22765, autocreated on : January 12, 2024 10:37:09 
+[2024-01-12 10:37:10 : INFO] - Re_Smush_It_Task with attachment ID : 22766, autocreated on : January 12, 2024 10:37:10 
+[2024-01-12 10:37:11 : INFO] - Re_Smush_It_Task with attachment ID : 22767, autocreated on : January 12, 2024 10:37:11 
+[2024-01-12 10:42:04 : INFO] - A total of 10 tasks of type smush found and will be processed in this iteration 
+[2024-01-12 10:42:04 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-01-12 10:42:04 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-01-12 10:42:04 : INFO] - Processing task with ID : 5114, and type 'smush' 
+[2024-01-12 10:42:04 : INFO] - Re_Smush_It_Task with attachment ID : 22758, autocreated on : January 12, 2024 10:37:03 
+[2024-01-12 10:42:04 : INFO] - File: placeholder-13.png, Compression quality: 65 
+[2024-01-12 10:42:04 : INFO] - Backing up the original image - 2024/01/placeholder-13-updraft-pre-smush-original.png 
+[2024-01-12 10:42:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 10:42:16 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/placeholder-13.png.The file was compressed from 6.00 KB to 5.03 KB, saving 16.19 percent, using WP-Optimize 
+[2024-01-12 10:42:16 : INFO] - Completed processing task with ID : 5114, and type 'smush' 
+[2024-01-12 10:42:16 : INFO] - Processing task with ID : 5115, and type 'smush' 
+[2024-01-12 10:42:16 : INFO] - Re_Smush_It_Task with attachment ID : 22759, autocreated on : January 12, 2024 10:37:04 
+[2024-01-12 10:42:16 : INFO] - File: team_6.jpg, Compression quality: 65 
+[2024-01-12 10:42:17 : INFO] - Backing up the original image - 2024/01/team_6-updraft-pre-smush-original.jpg 
+[2024-01-12 10:42:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 10:42:24 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/team_6.jpg.The file was compressed from 25.38 KB to 22.20 KB, saving 12.56 percent, using WP-Optimize 
+[2024-01-12 10:42:24 : INFO] - Completed processing task with ID : 5115, and type 'smush' 
+[2024-01-12 10:42:24 : INFO] - Processing task with ID : 5116, and type 'smush' 
+[2024-01-12 10:42:24 : INFO] - Re_Smush_It_Task with attachment ID : 22760, autocreated on : January 12, 2024 10:37:05 
+[2024-01-12 10:42:24 : INFO] - File: placeholder-14.png, Compression quality: 65 
+[2024-01-12 10:42:24 : INFO] - Backing up the original image - 2024/01/placeholder-14-updraft-pre-smush-original.png 
+[2024-01-12 10:42:35 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 10:42:35 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/placeholder-14.png.The file was compressed from 6.00 KB to 5.03 KB, saving 16.19 percent, using WP-Optimize 
+[2024-01-12 10:42:35 : INFO] - Completed processing task with ID : 5116, and type 'smush' 
+[2024-01-12 10:42:35 : INFO] - Processing task with ID : 5117, and type 'smush' 
+[2024-01-12 10:42:35 : INFO] - Re_Smush_It_Task with attachment ID : 22761, autocreated on : January 12, 2024 10:37:06 
+[2024-01-12 10:42:35 : INFO] - File: placeholder-15.png, Compression quality: 65 
+[2024-01-12 10:42:36 : INFO] - Backing up the original image - 2024/01/placeholder-15-updraft-pre-smush-original.png 
+[2024-01-12 10:42:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 10:42:48 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/placeholder-15.png.The file was compressed from 6.00 KB to 5.03 KB, saving 16.19 percent, using WP-Optimize 
+[2024-01-12 10:42:48 : INFO] - Completed processing task with ID : 5117, and type 'smush' 
+[2024-01-12 10:42:48 : INFO] - Processing task with ID : 5118, and type 'smush' 
+[2024-01-12 10:42:48 : INFO] - Re_Smush_It_Task with attachment ID : 22762, autocreated on : January 12, 2024 10:37:06 
+[2024-01-12 10:42:48 : INFO] - File: placeholder-16.png, Compression quality: 65 
+[2024-01-12 10:42:48 : INFO] - Backing up the original image - 2024/01/placeholder-16-updraft-pre-smush-original.png 
+[2024-01-12 10:42:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 10:42:59 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/placeholder-16.png.The file was compressed from 6.00 KB to 5.03 KB, saving 16.19 percent, using WP-Optimize 
+[2024-01-12 10:42:59 : INFO] - Completed processing task with ID : 5118, and type 'smush' 
+[2024-01-12 10:42:59 : INFO] - Processing task with ID : 5119, and type 'smush' 
+[2024-01-12 10:42:59 : INFO] - Re_Smush_It_Task with attachment ID : 22763, autocreated on : January 12, 2024 10:37:07 
+[2024-01-12 10:42:59 : INFO] - File: placeholder-17.png, Compression quality: 65 
+[2024-01-12 10:43:00 : INFO] - Backing up the original image - 2024/01/placeholder-17-updraft-pre-smush-original.png 
+[2024-01-12 10:43:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 10:43:10 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/placeholder-17.png.The file was compressed from 6.00 KB to 5.03 KB, saving 16.19 percent, using WP-Optimize 
+[2024-01-12 10:43:11 : INFO] - Completed processing task with ID : 5119, and type 'smush' 
+[2024-01-12 10:43:11 : INFO] - Processing task with ID : 5120, and type 'smush' 
+[2024-01-12 10:43:11 : INFO] - Re_Smush_It_Task with attachment ID : 22764, autocreated on : January 12, 2024 10:37:08 
+[2024-01-12 10:43:11 : INFO] - File: placeholder-18.png, Compression quality: 65 
+[2024-01-12 10:43:11 : INFO] - Backing up the original image - 2024/01/placeholder-18-updraft-pre-smush-original.png 
+[2024-01-12 10:43:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 10:43:23 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/placeholder-18.png.The file was compressed from 6.00 KB to 5.03 KB, saving 16.19 percent, using WP-Optimize 
+[2024-01-12 10:43:23 : INFO] - Completed processing task with ID : 5120, and type 'smush' 
+[2024-01-12 10:43:23 : INFO] - Processing task with ID : 5121, and type 'smush' 
+[2024-01-12 10:43:23 : INFO] - Re_Smush_It_Task with attachment ID : 22765, autocreated on : January 12, 2024 10:37:09 
+[2024-01-12 10:43:23 : INFO] - File: placeholder-19.png, Compression quality: 65 
+[2024-01-12 10:43:23 : INFO] - Backing up the original image - 2024/01/placeholder-19-updraft-pre-smush-original.png 
+[2024-01-12 10:43:34 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 10:43:34 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/placeholder-19.png.The file was compressed from 6.00 KB to 5.03 KB, saving 16.19 percent, using WP-Optimize 
+[2024-01-12 10:43:34 : INFO] - Completed processing task with ID : 5121, and type 'smush' 
+[2024-01-12 10:43:34 : INFO] - Processing task with ID : 5122, and type 'smush' 
+[2024-01-12 10:43:34 : INFO] - Re_Smush_It_Task with attachment ID : 22766, autocreated on : January 12, 2024 10:37:10 
+[2024-01-12 10:43:34 : INFO] - File: placeholder-20.png, Compression quality: 65 
+[2024-01-12 10:43:35 : INFO] - Backing up the original image - 2024/01/placeholder-20-updraft-pre-smush-original.png 
+[2024-01-12 10:43:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 10:43:46 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/placeholder-20.png.The file was compressed from 6.00 KB to 5.03 KB, saving 16.19 percent, using WP-Optimize 
+[2024-01-12 10:43:46 : INFO] - Completed processing task with ID : 5122, and type 'smush' 
+[2024-01-12 10:43:46 : INFO] - Processing task with ID : 5123, and type 'smush' 
+[2024-01-12 10:43:46 : INFO] - Re_Smush_It_Task with attachment ID : 22767, autocreated on : January 12, 2024 10:37:11 
+[2024-01-12 10:43:46 : INFO] - File: placeholder-21.png, Compression quality: 65 
+[2024-01-12 10:43:46 : INFO] - Backing up the original image - 2024/01/placeholder-21-updraft-pre-smush-original.png 
+[2024-01-12 10:43:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 10:43:57 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/placeholder-21.png.The file was compressed from 6.00 KB to 5.03 KB, saving 16.19 percent, using WP-Optimize 
+[2024-01-12 10:43:57 : INFO] - Completed processing task with ID : 5123, and type 'smush' 
+[2024-01-12 10:43:57 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-01-12 10:43:57 : INFO] - Successfully processed the queue (smush). 10 tasks were processed out of 10. 
+[2024-01-12 10:43:57 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-01-12 10:43:57 : INFO] - Cleaning up tasks of type (smush). A total of 10 tasks will be deleted. 
+[2024-01-12 10:50:50 : INFO] - Re_Smush_It_Task with attachment ID : 22769, autocreated on : January 12, 2024 10:50:50 
+[2024-01-12 10:50:51 : INFO] - Re_Smush_It_Task with attachment ID : 22770, autocreated on : January 12, 2024 10:50:51 
+[2024-01-12 10:50:52 : INFO] - Re_Smush_It_Task with attachment ID : 22771, autocreated on : January 12, 2024 10:50:52 
+[2024-01-12 10:52:04 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2024-01-12 10:52:04 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-01-12 10:52:04 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-01-12 10:52:04 : INFO] - Processing task with ID : 5124, and type 'smush' 
+[2024-01-12 10:52:04 : INFO] - Re_Smush_It_Task with attachment ID : 22769, autocreated on : January 12, 2024 10:50:50 
+[2024-01-12 10:52:04 : INFO] - File: placeholder-611.png, Compression quality: 65 
+[2024-01-12 10:52:05 : INFO] - Backing up the original image - 2024/01/placeholder-611-updraft-pre-smush-original.png 
+[2024-01-12 10:52:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 10:52:16 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/placeholder-611.png.The file was compressed from 6.00 KB to 5.03 KB, saving 16.19 percent, using WP-Optimize 
+[2024-01-12 10:52:16 : INFO] - Completed processing task with ID : 5124, and type 'smush' 
+[2024-01-12 10:52:16 : INFO] - Processing task with ID : 5125, and type 'smush' 
+[2024-01-12 10:52:16 : INFO] - Re_Smush_It_Task with attachment ID : 22770, autocreated on : January 12, 2024 10:50:51 
+[2024-01-12 10:52:16 : INFO] - File: placeholder-612.png, Compression quality: 65 
+[2024-01-12 10:52:16 : INFO] - Backing up the original image - 2024/01/placeholder-612-updraft-pre-smush-original.png 
+[2024-01-12 10:52:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 10:52:27 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/placeholder-612.png.The file was compressed from 6.00 KB to 5.03 KB, saving 16.19 percent, using WP-Optimize 
+[2024-01-12 10:52:27 : INFO] - Completed processing task with ID : 5125, and type 'smush' 
+[2024-01-12 10:52:27 : INFO] - Processing task with ID : 5126, and type 'smush' 
+[2024-01-12 10:52:27 : INFO] - Re_Smush_It_Task with attachment ID : 22771, autocreated on : January 12, 2024 10:50:52 
+[2024-01-12 10:52:27 : INFO] - File: Call_to_Actions1.png, Compression quality: 65 
+[2024-01-12 10:52:28 : INFO] - Backing up the original image - 2024/01/Call_to_Actions1-updraft-pre-smush-original.png 
+[2024-01-12 10:52:40 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 10:52:40 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/Call_to_Actions1.png.The file was compressed from 35.15 KB to 34.28 KB, saving 2.46 percent, using WP-Optimize 
+[2024-01-12 10:52:40 : INFO] - Completed processing task with ID : 5126, and type 'smush' 
+[2024-01-12 10:52:40 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-01-12 10:52:40 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2024-01-12 10:52:40 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-01-12 10:52:40 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2024-01-12 11:01:18 : INFO] - Re_Smush_It_Task with attachment ID : 22775, autocreated on : January 12, 2024 11:01:18 
+[2024-01-12 11:01:29 : INFO] - Re_Smush_It_Task with attachment ID : 22776, autocreated on : January 12, 2024 11:01:29 
+[2024-01-12 11:01:50 : INFO] - Re_Smush_It_Task with attachment ID : 22777, autocreated on : January 12, 2024 11:01:50 
+[2024-01-12 11:02:05 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2024-01-12 11:02:05 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-01-12 11:02:05 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-01-12 11:02:05 : INFO] - Processing task with ID : 5127, and type 'smush' 
+[2024-01-12 11:02:05 : INFO] - Re_Smush_It_Task with attachment ID : 22775, autocreated on : January 12, 2024 11:01:18 
+[2024-01-12 11:02:05 : INFO] - File: Levante-Real-Estates-Approach-to-Property-Investment-in-Dubai.png, Compression quality: 65 
+[2024-01-12 11:02:10 : INFO] - Backing up the original image - 2024/01/Levante-Real-Estates-Approach-to-Property-Investment-in-Dubai-updraft-pre-smush-original.png 
+[2024-01-12 11:02:23 : INFO] - Re_Smush_It_Task with attachment ID : 22778, autocreated on : January 12, 2024 11:02:23 
+[2024-01-12 11:02:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 11:02:37 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/Levante-Real-Estates-Approach-to-Property-Investment-in-Dubai.png.The file was compressed from 1.31 MB to 611.74 KB, saving 54.41 percent, using WP-Optimize 
+[2024-01-12 11:02:37 : INFO] - Completed processing task with ID : 5127, and type 'smush' 
+[2024-01-12 11:02:37 : INFO] - Processing task with ID : 5128, and type 'smush' 
+[2024-01-12 11:02:37 : INFO] - Re_Smush_It_Task with attachment ID : 22776, autocreated on : January 12, 2024 11:01:29 
+[2024-01-12 11:02:37 : INFO] - File: Navigating-the-Dubai-Real-Estate-Landscape.png, Compression quality: 65 
+[2024-01-12 11:02:40 : INFO] - Backing up the original image - 2024/01/Navigating-the-Dubai-Real-Estate-Landscape-updraft-pre-smush-original.png 
+[2024-01-12 11:02:48 : INFO] - Re_Smush_It_Task with attachment ID : 22779, autocreated on : January 12, 2024 11:02:48 
+[2024-01-12 11:02:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 11:02:56 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/Navigating-the-Dubai-Real-Estate-Landscape.png.The file was compressed from 318.55 KB to 103.48 KB, saving 67.51 percent, using WP-Optimize 
+[2024-01-12 11:02:56 : INFO] - Completed processing task with ID : 5128, and type 'smush' 
+[2024-01-12 11:02:56 : INFO] - Processing task with ID : 5129, and type 'smush' 
+[2024-01-12 11:02:56 : INFO] - Re_Smush_It_Task with attachment ID : 22777, autocreated on : January 12, 2024 11:01:50 
+[2024-01-12 11:02:56 : INFO] - File: Navigating-the-Dubai-Real-Estate-Market.png, Compression quality: 65 
+[2024-01-12 11:03:00 : INFO] - Backing up the original image - 2024/01/Navigating-the-Dubai-Real-Estate-Market-updraft-pre-smush-original.png 
+[2024-01-12 11:03:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 11:03:21 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/Navigating-the-Dubai-Real-Estate-Market.png.The file was compressed from 917.48 KB to 260.35 KB, saving 71.62 percent, using WP-Optimize 
+[2024-01-12 11:03:21 : INFO] - Completed processing task with ID : 5129, and type 'smush' 
+[2024-01-12 11:03:21 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-01-12 11:03:21 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2024-01-12 11:03:21 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-01-12 11:03:21 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2024-01-12 11:12:12 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2024-01-12 11:12:12 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-01-12 11:12:12 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-01-12 11:12:12 : INFO] - Processing task with ID : 5130, and type 'smush' 
+[2024-01-12 11:12:12 : INFO] - Re_Smush_It_Task with attachment ID : 22778, autocreated on : January 12, 2024 11:02:23 
+[2024-01-12 11:12:12 : INFO] - File: Real-Estate-Dubai-Companies.png, Compression quality: 65 
+[2024-01-12 11:12:18 : INFO] - Backing up the original image - 2024/01/Real-Estate-Dubai-Companies-updraft-pre-smush-original.png 
+[2024-01-12 11:12:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 11:12:45 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/Real-Estate-Dubai-Companies.png.The file was compressed from 1.47 MB to 477.85 KB, saving 68.31 percent, using WP-Optimize 
+[2024-01-12 11:12:45 : INFO] - Completed processing task with ID : 5130, and type 'smush' 
+[2024-01-12 11:12:45 : INFO] - Processing task with ID : 5131, and type 'smush' 
+[2024-01-12 11:12:45 : INFO] - Re_Smush_It_Task with attachment ID : 22779, autocreated on : January 12, 2024 11:02:48 
+[2024-01-12 11:12:45 : INFO] - File: Top-Real-Estate-Brokers-in-Dubai.png, Compression quality: 65 
+[2024-01-12 11:12:49 : INFO] - Backing up the original image - 2024/01/Top-Real-Estate-Brokers-in-Dubai-updraft-pre-smush-original.png 
+[2024-01-12 11:13:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 11:13:12 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/Top-Real-Estate-Brokers-in-Dubai.png.The file was compressed from 942.87 KB to 385.96 KB, saving 59.07 percent, using WP-Optimize 
+[2024-01-12 11:13:12 : INFO] - Completed processing task with ID : 5131, and type 'smush' 
+[2024-01-12 11:13:12 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-01-12 11:13:12 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2024-01-12 11:13:12 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-01-12 11:13:12 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2024-01-12 12:09:47 : INFO] - Re_Smush_It_Task with attachment ID : 22831, autocreated on : January 12, 2024 12:09:47 
+[2024-01-12 12:14:49 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-01-12 12:14:49 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-01-12 12:14:49 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-01-12 12:14:49 : INFO] - Processing task with ID : 5132, and type 'smush' 
+[2024-01-12 12:14:49 : INFO] - Re_Smush_It_Task with attachment ID : 22831, autocreated on : January 12, 2024 12:09:47 
+[2024-01-12 12:14:49 : INFO] - File: CTA-marketing-agency-1.jpg, Compression quality: 65 
+[2024-01-12 12:14:50 : INFO] - Backing up the original image - 2024/01/CTA-marketing-agency-1-updraft-pre-smush-original.jpg 
+[2024-01-12 12:15:01 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 12:15:01 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/CTA-marketing-agency-1.jpg.The file was compressed from 60.05 KB to 38.44 KB, saving 35.98 percent, using WP-Optimize 
+[2024-01-12 12:15:01 : INFO] - Completed processing task with ID : 5132, and type 'smush' 
+[2024-01-12 12:15:01 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-01-12 12:15:01 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-01-12 12:15:01 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-01-12 12:15:01 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2024-01-12 12:55:41 : INFO] - Re_Smush_It_Task with attachment ID : 22868, autocreated on : January 12, 2024 12:55:40 
+[2024-01-12 12:55:43 : INFO] - Re_Smush_It_Task with attachment ID : 22869, autocreated on : January 12, 2024 12:55:43 
+[2024-01-12 12:55:44 : INFO] - Re_Smush_It_Task with attachment ID : 22870, autocreated on : January 12, 2024 12:55:44 
+[2024-01-12 12:55:46 : INFO] - Re_Smush_It_Task with attachment ID : 22871, autocreated on : January 12, 2024 12:55:45 
+[2024-01-12 12:55:48 : INFO] - Re_Smush_It_Task with attachment ID : 22872, autocreated on : January 12, 2024 12:55:47 
+[2024-01-12 12:55:50 : INFO] - Re_Smush_It_Task with attachment ID : 22873, autocreated on : January 12, 2024 12:55:50 
+[2024-01-12 13:00:48 : INFO] - A total of 6 tasks of type smush found and will be processed in this iteration 
+[2024-01-12 13:00:48 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-01-12 13:00:48 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-01-12 13:00:48 : INFO] - Processing task with ID : 5133, and type 'smush' 
+[2024-01-12 13:00:48 : INFO] - Re_Smush_It_Task with attachment ID : 22868, autocreated on : January 12, 2024 12:55:40 
+[2024-01-12 13:00:48 : INFO] - File: placeholder-239.png, Compression quality: 65 
+[2024-01-12 13:00:49 : INFO] - Backing up the original image - 2024/01/placeholder-239-updraft-pre-smush-original.png 
+[2024-01-12 13:01:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 13:01:00 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/placeholder-239.png.The file was compressed from 6.00 KB to 5.03 KB, saving 16.19 percent, using WP-Optimize 
+[2024-01-12 13:01:00 : INFO] - Completed processing task with ID : 5133, and type 'smush' 
+[2024-01-12 13:01:00 : INFO] - Processing task with ID : 5134, and type 'smush' 
+[2024-01-12 13:01:00 : INFO] - Re_Smush_It_Task with attachment ID : 22869, autocreated on : January 12, 2024 12:55:43 
+[2024-01-12 13:01:00 : INFO] - File: info-box-icon-11.png, Compression quality: 65 
+[2024-01-12 13:01:01 : INFO] - Backing up the original image - 2024/01/info-box-icon-11-updraft-pre-smush-original.png 
+[2024-01-12 13:01:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 13:01:02 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/info-box-icon-11.png.The file was compressed from 1.10 KB to 1.07 KB, saving 2.84 percent, using WP-Optimize 
+[2024-01-12 13:01:02 : INFO] - Completed processing task with ID : 5134, and type 'smush' 
+[2024-01-12 13:01:02 : INFO] - Processing task with ID : 5135, and type 'smush' 
+[2024-01-12 13:01:02 : INFO] - Re_Smush_It_Task with attachment ID : 22870, autocreated on : January 12, 2024 12:55:44 
+[2024-01-12 13:01:02 : INFO] - File: Team_img-3-1.jpeg, Compression quality: 65 
+[2024-01-12 13:01:03 : INFO] - Backing up the original image - 2024/01/Team_img-3-1-updraft-pre-smush-original.jpeg 
+[2024-01-12 13:01:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 13:01:07 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/Team_img-3-1.jpeg.The file was compressed from 12.78 KB to 8.51 KB, saving 33.46 percent, using WP-Optimize 
+[2024-01-12 13:01:07 : INFO] - Completed processing task with ID : 5135, and type 'smush' 
+[2024-01-12 13:01:07 : INFO] - Processing task with ID : 5136, and type 'smush' 
+[2024-01-12 13:01:07 : INFO] - Re_Smush_It_Task with attachment ID : 22871, autocreated on : January 12, 2024 12:55:45 
+[2024-01-12 13:01:07 : INFO] - File: info-box-icon-21.png, Compression quality: 65 
+[2024-01-12 13:01:08 : INFO] - Backing up the original image - 2024/01/info-box-icon-21-updraft-pre-smush-original.png 
+[2024-01-12 13:01:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 13:01:09 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/info-box-icon-21.png.The file was compressed from 1.03 KB to 1018 bytes, saving 3.05 percent, using WP-Optimize 
+[2024-01-12 13:01:09 : INFO] - Completed processing task with ID : 5136, and type 'smush' 
+[2024-01-12 13:01:09 : INFO] - Processing task with ID : 5137, and type 'smush' 
+[2024-01-12 13:01:09 : INFO] - Re_Smush_It_Task with attachment ID : 22872, autocreated on : January 12, 2024 12:55:47 
+[2024-01-12 13:01:09 : INFO] - File: placeholder-240.png, Compression quality: 65 
+[2024-01-12 13:01:09 : INFO] - Backing up the original image - 2024/01/placeholder-240-updraft-pre-smush-original.png 
+[2024-01-12 13:01:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 13:01:20 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/placeholder-240.png.The file was compressed from 2.99 KB to 2.99 KB, saving 0 percent, using WP-Optimize 
+[2024-01-12 13:01:20 : INFO] - Completed processing task with ID : 5137, and type 'smush' 
+[2024-01-12 13:01:20 : INFO] - Processing task with ID : 5138, and type 'smush' 
+[2024-01-12 13:01:20 : INFO] - Re_Smush_It_Task with attachment ID : 22873, autocreated on : January 12, 2024 12:55:50 
+[2024-01-12 13:01:20 : INFO] - File: info-box-icon-31.png, Compression quality: 65 
+[2024-01-12 13:01:21 : INFO] - Backing up the original image - 2024/01/info-box-icon-31-updraft-pre-smush-original.png 
+[2024-01-12 13:01:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 13:01:22 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/info-box-icon-31.png.The file was compressed from 1.10 KB to 1.08 KB, saving 1.77 percent, using WP-Optimize 
+[2024-01-12 13:01:22 : INFO] - Completed processing task with ID : 5138, and type 'smush' 
+[2024-01-12 13:01:22 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-01-12 13:01:22 : INFO] - Successfully processed the queue (smush). 6 tasks were processed out of 6. 
+[2024-01-12 13:01:22 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-01-12 13:01:22 : INFO] - Cleaning up tasks of type (smush). A total of 6 tasks will be deleted. 
+[2024-01-13 07:58:07 : INFO] - Re_Smush_It_Task with attachment ID : 22894, autocreated on : January 13, 2024 07:58:07 
+[2024-01-13 08:03:10 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-01-13 08:03:10 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-01-13 08:03:10 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-01-13 08:03:10 : INFO] - Processing task with ID : 5139, and type 'smush' 
+[2024-01-13 08:03:10 : INFO] - Re_Smush_It_Task with attachment ID : 22894, autocreated on : January 13, 2024 07:58:07 
+[2024-01-13 08:03:10 : INFO] - File: placeholder-167.png, Compression quality: 65 
+[2024-01-13 08:03:12 : INFO] - Backing up the original image - 2024/01/placeholder-167-updraft-pre-smush-original.png 
+[2024-01-13 08:03:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-13 08:03:23 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/placeholder-167.png.The file was compressed from 6.00 KB to 5.03 KB, saving 16.19 percent, using WP-Optimize 
+[2024-01-13 08:03:23 : INFO] - Completed processing task with ID : 5139, and type 'smush' 
+[2024-01-13 08:03:23 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-01-13 08:03:23 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-01-13 08:03:23 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-01-13 08:03:23 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2024-01-13 08:04:16 : INFO] - Re_Smush_It_Task with attachment ID : 22896, autocreated on : January 13, 2024 08:04:16 
+[2024-01-13 08:08:55 : INFO] - Re_Smush_It_Task with attachment ID : 22897, autocreated on : January 13, 2024 08:08:55 
+[2024-01-13 08:13:15 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2024-01-13 08:13:15 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-01-13 08:13:15 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-01-13 08:13:15 : INFO] - Processing task with ID : 5140, and type 'smush' 
+[2024-01-13 08:13:15 : INFO] - Re_Smush_It_Task with attachment ID : 22896, autocreated on : January 13, 2024 08:04:16 
+[2024-01-13 08:13:15 : INFO] - File: placeholder-73.png, Compression quality: 65 
+[2024-01-13 08:13:16 : INFO] - Backing up the original image - 2024/01/placeholder-73-updraft-pre-smush-original.png 
+[2024-01-13 08:13:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-13 08:13:27 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/placeholder-73.png.The file was compressed from 6.00 KB to 5.03 KB, saving 16.19 percent, using WP-Optimize 
+[2024-01-13 08:13:27 : INFO] - Completed processing task with ID : 5140, and type 'smush' 
+[2024-01-13 08:13:27 : INFO] - Processing task with ID : 5141, and type 'smush' 
+[2024-01-13 08:13:27 : INFO] - Re_Smush_It_Task with attachment ID : 22897, autocreated on : January 13, 2024 08:08:55 
+[2024-01-13 08:13:27 : INFO] - File: placeholder-190.png, Compression quality: 65 
+[2024-01-13 08:13:28 : INFO] - Backing up the original image - 2024/01/placeholder-190-updraft-pre-smush-original.png 
+[2024-01-13 08:13:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-13 08:13:38 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/placeholder-190.png.The file was compressed from 6.00 KB to 5.03 KB, saving 16.19 percent, using WP-Optimize 
+[2024-01-13 08:13:38 : INFO] - Completed processing task with ID : 5141, and type 'smush' 
+[2024-01-13 08:13:38 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-01-13 08:13:38 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2024-01-13 08:13:38 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-01-13 08:13:38 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2024-01-13 08:26:50 : INFO] - Re_Smush_It_Task with attachment ID : 22898, autocreated on : January 13, 2024 08:26:50 
+[2024-01-13 08:31:54 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-01-13 08:31:54 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-01-13 08:31:54 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-01-13 08:31:54 : INFO] - Processing task with ID : 5142, and type 'smush' 
+[2024-01-13 08:31:54 : INFO] - Re_Smush_It_Task with attachment ID : 22898, autocreated on : January 13, 2024 08:26:50 
+[2024-01-13 08:31:54 : INFO] - File: placeholder-298.png, Compression quality: 65 
+[2024-01-13 08:31:54 : INFO] - Backing up the original image - 2024/01/placeholder-298-updraft-pre-smush-original.png 
+[2024-01-13 08:32:06 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-13 08:32:06 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/placeholder-298.png.The file was compressed from 6.00 KB to 5.03 KB, saving 16.19 percent, using WP-Optimize 
+[2024-01-13 08:32:06 : INFO] - Completed processing task with ID : 5142, and type 'smush' 
+[2024-01-13 08:32:06 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-01-13 08:32:06 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-01-13 08:32:06 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-01-13 08:32:06 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2024-01-17 09:01:09 : INFO] - Re_Smush_It_Task with attachment ID : 22953, autocreated on : January 17, 2024 09:01:09 
+[2024-01-17 09:06:14 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-01-17 09:06:14 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-01-17 09:06:14 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-01-17 09:06:14 : INFO] - Processing task with ID : 5143, and type 'smush' 
+[2024-01-17 09:06:14 : INFO] - Re_Smush_It_Task with attachment ID : 22953, autocreated on : January 17, 2024 09:01:09 
+[2024-01-17 09:06:14 : INFO] - File: levante-about-new-1.jpg, Compression quality: 65 
+[2024-01-17 09:06:16 : INFO] - Backing up the original image - 2024/01/levante-about-new-1-updraft-pre-smush-original.jpg 
+[2024-01-17 09:06:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-17 09:06:24 : INFO] - Successfully optimized the image - /home5/levanterealestat/public_html/wp-content/uploads/2024/01/levante-about-new-1.jpg.The file was compressed from 61.46 KB to 32.89 KB, saving 46.49 percent, using WP-Optimize 
+[2024-01-17 09:06:24 : INFO] - Completed processing task with ID : 5143, and type 'smush' 
+[2024-01-17 09:06:24 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-01-17 09:06:24 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-01-17 09:06:24 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-01-17 09:06:24 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 

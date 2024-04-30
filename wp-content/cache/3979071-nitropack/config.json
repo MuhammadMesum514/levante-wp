@@ -1,0 +1,34 @@
+{
+    "config_path": "739f1199297ae666a5d3c4f324fb7339",
+    "levantere.com": {
+        "siteId": "vZGtrHllkEgebwjZMwuLsbcpPPhzcnwi",
+        "siteSecret": "8A2wPiKtATbDumQDhUA2jXu0xKV0oRX3tgBmuDl0ATKKHwDdZjkb1qtsNST9jDjf",
+        "blogId": 1,
+        "compression": false,
+        "webhookToken": "1be06121af620ec1dcb6140a330204cf",
+        "home_url": "https:\/\/levantere.com",
+        "admin_url": "https:\/\/levantere.com\/wp-admin\/",
+        "hosting": "unknown",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isApoActive": false,
+        "isNginxHelperActive": false,
+        "isLateIntegrationInitRequired": false,
+        "isDlmActive": false,
+        "isWoocommerceCacheHandlerActive": false,
+        "isWoocommerceActive": false,
+        "isAeliaCurrencySwitcherActive": false,
+        "isGeoTargetingWPActive": false,
+        "dlm_downloading_url": null,
+        "dlm_download_endpoint": null,
+        "pluginVersion": "1.13.0",
+        "options_cache": {
+            "cache_handler_cache_handler": false,
+            "woocommerce_default_customer_address": "base",
+            "wc_aelia_currency_switcher": {
+                "ipgeolocation_enabled": null
+            }
+        },
+        "additional_domains": []
+    }
+}

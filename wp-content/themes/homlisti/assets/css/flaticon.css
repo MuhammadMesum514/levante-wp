@@ -1,0 +1,122 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon.ttf?4c8541f813cac0753c62e0740c5ce069") format("truetype"),
+url("../fonts/flaticon.woff?4c8541f813cac0753c62e0740c5ce069") format("woff"),
+url("../fonts/flaticon.woff2?4c8541f813cac0753c62e0740c5ce069") format("woff2"),
+url("../fonts/flaticon.eot?4c8541f813cac0753c62e0740c5ce069#iefix") format("embedded-opentype"),
+url("../fonts/flaticon.svg?4c8541f813cac0753c62e0740c5ce069#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-user:before {
+    content: "\f101";
+}
+.flaticon-user-1:before {
+    content: "\f102";
+}
+.flaticon-speech-bubble:before {
+    content: "\f103";
+}
+.flaticon-next:before {
+    content: "\f104";
+}
+.flaticon-share:before {
+    content: "\f105";
+}
+.flaticon-share-1:before {
+    content: "\f106";
+}
+.flaticon-left-and-right-arrows:before {
+    content: "\f107";
+}
+.flaticon-heart:before {
+    content: "\f108";
+}
+.flaticon-camera:before {
+    content: "\f109";
+}
+.flaticon-video-player:before {
+    content: "\f10a";
+}
+.flaticon-maps-and-flags:before {
+    content: "\f10b";
+}
+.flaticon-check:before {
+    content: "\f10c";
+}
+.flaticon-envelope:before {
+    content: "\f10d";
+}
+.flaticon-phone-call:before {
+    content: "\f10e";
+}
+.flaticon-call:before {
+    content: "\f10f";
+}
+.flaticon-clock:before {
+    content: "\f110";
+}
+.flaticon-play:before {
+    content: "\f111";
+}
+.flaticon-loupe:before {
+    content: "\f112";
+}
+.flaticon-user-2:before {
+    content: "\f113";
+}
+.flaticon-bed:before {
+    content: "\f114";
+}
+.flaticon-shower:before {
+    content: "\f115";
+}
+.flaticon-pencil:before {
+    content: "\f116";
+}
+.flaticon-two-overlapping-square:before {
+    content: "\f117";
+}
+.flaticon-printer:before {
+    content: "\f118";
+}
+.flaticon-comment:before {
+    content: "\f119";
+}
+.flaticon-home:before {
+    content: "\f11a";
+}
+.flaticon-garage:before {
+    content: "\f11b";
+}
+.flaticon-full-size:before {
+    content: "\f11c";
+}
+.flaticon-tag:before {
+    content: "\f11d";
+}
+.flaticon-right-arrow:before {
+    content: "\f11e";
+}
+.flaticon-left-arrow:before {
+    content: "\f11f";
+}
+.flaticon-left-arrow-1:before {
+    content: "\f120";
+}
+.flaticon-left-arrow-2:before {
+    content: "\f121";
+}
+.flaticon-right-arrow-1:before {
+    content: "\f122";
+}

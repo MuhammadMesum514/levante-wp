@@ -1,0 +1,92 @@
+:root {
+    --rt-admin-primary-color: #4C6FFF;
+}
+
+body.rtcl_listing_page_rtcl-settings {
+    background: #F7FAFC;
+}
+
+body.rtcl_listing_page_rtcl-settings .nav-tab-wrapper, .wrap h2.nav-tab-wrapper {
+
+}
+
+.rtcl-settings .subsubsub {
+    border: 1px solid #d3d3d3;
+    padding-bottom: 5px;
+    width: 100%;
+    padding-top: 7px;
+    text-align: left;
+    background: #edeff1;
+}
+
+.rtcl-settings .subsubsub a:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.rtcl-settings .subsubsub a {
+    padding: 9px 10px;
+    z-index: 99;
+    position: relative;
+    color: #222;
+    font-weight: 600;
+    font-size: 14px;
+    transition: 0.3s;
+    border-bottom: 2px solid transparent;
+}
+
+
+.rtcl-settings .subsubsub a:hover,
+.rtcl-settings .subsubsub a.current {
+    border-bottom-color: var(--rt-admin-primary-color, #4C6FFF) !important;
+    color: var(--rt-admin-primary-color, #4C6FFF);
+}
+body.rtcl_listing_page_rtcl-settings .nav-tab-wrapper .nav-tab {
+    height: 40px;
+    line-height: 40px;
+    padding: 0 20px;
+    background: #e2e6e9;
+    border: none;
+    color: #222;
+    transition: 0.3s;
+    margin-left: 0;
+    margin-right: 5px;
+}
+body.rtcl_listing_page_rtcl-settings .nav-tab-wrapper .nav-tab:hover,
+body.rtcl_listing_page_rtcl-settings .nav-tab-wrapper .nav-tab.nav-tab-active {
+    background: var(--rt-admin-primary-color, #4C6FFF);
+    border-color: var(--rt-admin-primary-color, #4C6FFF) !important;
+    color: #fff;
+}
+.rtcl-settings form {
+    padding: 0 30px 30px;
+    background: #fff;
+    border: 1px solid #e2e6e9;
+    margin-top: 15px;
+}
+
+.rtcl-settings h3.rtcl-settings-sub-title:nth-of-type(1) {
+    margin-top: 17px;
+}
+
+
+@media (min-width: 992px) {
+    .rtcl-settings .subsubsub li:first-child a {
+        margin-left: 2px;
+    }
+}
+
+@media (max-width: 1399px) {
+    body.rtcl_listing_page_rtcl-settings .nav-tab-wrapper .nav-tab {
+        margin-top: 5px;
+    }
+}
+
+@media (max-width: 991px) {
+    .rtcl-settings .subsubsub a{
+        padding-bottom: 3px;
+    }
+    .rtcl-settings .subsubsub {
+        background: none;
+    }
+}

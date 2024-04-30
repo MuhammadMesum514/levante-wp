@@ -1,0 +1,26 @@
+<wpml-config>
+    <admin-texts>
+        <key name="faktorie">
+            <key name="header_btn_txt"/>
+            <key name="walkscore_title"/>
+            <key name="overview_text"/>
+            <key name="virtual_tour_label"/>
+            <key name="details_text"/>
+            <key name="feature_text"/>
+            <key name="listing_widget_min_price"/>
+            <key name="listing_widget_max_price"/>
+            <key name="error_text"/>
+            <key name="error_subtitle"/>
+            <key name="error_buttontext"/>
+            <key name="copyright_text"/>
+            <key name="contact_address"/>
+            <key name="contact_phone"/>
+            <key name="contact_email"/>
+            <key name="contact_website"/>
+            <key name="listing_type_prefix_text"/>
+            <key name="about_this_listing"/>
+            <key name="map_location_label"/>
+            <key name="property_video_label"/>
+        </key>
+    </admin-texts>
+</wpml-config>
